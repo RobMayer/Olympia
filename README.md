@@ -1,2 +1,2 @@
-# OlympiaLang
-Localizations for the Olympia Project
+# Olympia
+Localizations and Issue-tracker for the Olympia Project
