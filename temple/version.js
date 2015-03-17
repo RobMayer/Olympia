@@ -1,1 +1,1 @@
-Temple.latestVersion = "0.1.1;
+Temple.latestVersion = "0.1.1";
